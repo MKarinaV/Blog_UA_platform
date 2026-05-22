@@ -26,7 +26,7 @@ http://localhost:5000
 
 ## Структура проекту
 
-blog/
+blog/ 
 ├── app.py               # Основний Flask-застосунок та маршрути
 ├── database.py          # Ініціалізація бази даних
 ├── blog.db              # SQLite база даних
@@ -43,7 +43,7 @@ blog/
     ├── profile.html
     ├── my_posts.html
     │
-    └── admin/
+    └──admin/
         ├── panel.html
         ├── users.html
         ├── posts.html
